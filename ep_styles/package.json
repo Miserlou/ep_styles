@@ -1,0 +1,9 @@
+{
+  "name": "ep_styles",
+  "version": "0.0.1",
+  "description": "Add Custom Stylesheets To Your Pads",
+  "author": "Miserlou (Rich Jones) <rich@openwatch.net>",
+  "contributors": [],
+  "dependencies": {},
+  "engines": { "node": ">= 0.6.0"}
+}
